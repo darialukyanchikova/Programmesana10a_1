@@ -15,7 +15,7 @@
 8 Komaðilo Dmitrijs
 
 9 Lukjanèikova Darja
-print(19+3)
+print(19+3+5)
 10 Minalto Jana
 
 11 Obrazcova Marija
